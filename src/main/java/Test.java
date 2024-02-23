@@ -6,4 +6,8 @@ public class Test {
     public void test2() {
         System.out.println("test again ..... from frontend branch");
     }
+
+    public void test5 () {
+        System.out.println("test 중");
+    }
 }

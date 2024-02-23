@@ -6,4 +6,8 @@ public class Test {
     public void test2(){
         System.out.println("abcdefg");
     }
+
+    public void test5(){
+        System.out.println("afgskljdefdksjlfsdf");
+    }
 }

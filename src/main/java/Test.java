@@ -14,4 +14,8 @@ public class Test {
     public void cry(){
         System.out.println("cry");
     }
+
+    public void test5 () {
+        System.out.println("test 중");
+    }
 }

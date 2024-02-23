@@ -15,7 +15,10 @@ public class Test {
         System.out.println("cry");
     }
 
-    public void test5 () {
+    public void test6 () {
+        System.out.println("test 중");
+    }
+    public void test7 (){
         System.out.println("test 중");
     }
 }

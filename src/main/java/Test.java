@@ -11,4 +11,8 @@ public class Test {
         System.out.println("test again ..... from frontend branch");
 
     }
+
+    public void cry(){
+        System.out.println("cry");
+    }
 }

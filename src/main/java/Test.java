@@ -3,16 +3,7 @@ public class Test {
         System.out.println("This is a test.");
     }
 
-
-    public void test3(){
+    public void test2(){
         System.out.println("abcdefg");
-
-    public void test2() {
-        System.out.println("test again ..... from frontend branch");
-
-    }
-
-    public void test5(){
-        System.out.println("나는 테스트 5이다");
     }
 }
